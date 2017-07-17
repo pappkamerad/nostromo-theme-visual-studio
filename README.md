@@ -8,7 +8,7 @@ Inspired by computer terminals in sci-fi movies of the 70s and 80s.
 
 > **NOTE**: This theme works with Visual Studio 2013, 2015 and 2017)
 
-> This theme works with the standard color options as well as with the additional ones from the [ReSharper](https://marketplace.visualstudio.com/items?itemName=JetBrains.ReSharper) and [Semantic Highlighter](https://marketplace.visualstudio.com/items?itemName=Abmes.SemanticHighlighter)
+> **NOTE**: This theme works with the standard color options as well as with the additional ones from the [ReSharper](https://marketplace.visualstudio.com/items?itemName=JetBrains.ReSharper) and [Semantic Highlighter](https://marketplace.visualstudio.com/items?itemName=Abmes.SemanticHighlighter)
 
 <img src="https://raw.githubusercontent.com/pappkamerad/nostromo-theme-visual-studio/master/assets/screenshot_main.png"/>
 
